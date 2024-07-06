@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs , Nextjs , ExpressJs**
 
-- 👨‍💻 All of my projects are available at [......](......)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/_____viishal](......)
 
 - 💬 Ask me about **Javascript , NodeJs**
 
